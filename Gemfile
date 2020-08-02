@@ -56,3 +56,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'text-table'
 
 gem 'devise'
+
+gem 'pry-rails'
